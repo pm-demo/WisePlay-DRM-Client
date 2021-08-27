@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Test Sample",
+    "samples": [
+      {
+        "name": "wiseplay dash cenc",
+        "uri": "https://fw-drm.s3-us-west-2.amazonaws.com/clip.mpd",
+        "drm_scheme": "wiseplay",
+        "drm_license_url": "https://gt2b9y06y2.execute-api.us-west-2.amazonaws.com/1/getLicense?id=1"
+      }
+    ]
+  }
+]
